@@ -1,4 +1,4 @@
-##This is short notes and crash books about Machine Learning specially convolutional neural network
+#This is short notes and crash books about Machine Learning specially convolutional neural network
 
 read it carefully with free download
 
